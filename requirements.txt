@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+pyod
+isotree
+pyclustering
+detecta
+kneed
