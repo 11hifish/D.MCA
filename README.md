@@ -24,8 +24,7 @@ and Leman Akoglu
     In this paper, we propose D.MCA to <ins>D</ins>etect outliers with explicit <ins>M</ins>icro-<ins>C</ins>luster <ins>A</ins>ssignment. 
     Our method performs both detection and assignment iteratively, and in-house, by using a novel strategy that prunes entire micro-clusters out of the training set to improve the performance of the detection.
     It also benefits from a novel strategy that avoids clustered outliers to mask each other, which is a well-known problem in the literature.
-    Also, D.MCA is designed to be robust to a critical hyperparameter $\psi$, the subsample size by 
-    by employing a hyperensemble "warm up" phase.
+    Also, D.MCA is designed to be robust to a critical hyperparameter by employing a hyperensemble "warm up" phase.
     Experiments performed on 16 real-world and synthetic datasets demonstrate that D.MCA outperforms 8 state-of-the-art competitors, especially on the explicit outlier micro-cluster assignment task.
 
 
